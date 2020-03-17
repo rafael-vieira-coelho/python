@@ -1,6 +1,5 @@
 # python
 Aula 7 - Introdução Python
-
 https://www.youtube.com/watch?v=wDtihC9TFMo
 
 Aula 8 - Variaveis Python
