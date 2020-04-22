@@ -40,3 +40,5 @@ Aula 18 - Algoritmos de Busca Python
 Aula 19 - Algoritmos de Ordenação Python
 
 Aula 20 - Programação Orientada a Objetos em Python
+
+https://youtu.be/BMX0SH1UrOU
